@@ -1,0 +1,6 @@
+- pushear a git
+
+- instalar py-earth
+estuve con problemas me pide microsoft c++ redistributable pero ya lo tengo
+no puede armar el whl
+
